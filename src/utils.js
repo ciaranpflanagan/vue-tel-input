@@ -37,6 +37,7 @@ export const defaultOptions = {
   autofocus: false,
   customValidate: false,
   defaultCountry: '',
+  defaultCountryByDialCode: '',
   disabled: false,
   disabledFetchingCountry: false,
   dropdownOptions: {},
